@@ -104,6 +104,27 @@
   * [Implementation](resources/faqs/implementation.md)
   * [Configuration](resources/faqs/configuration.md)
   * [General](resources/faqs/general.md)
+  * [External Content](external-content/README.md)
+    * About
+      * [Learn More About XMPro](external-content/about/learn-more-about-xmpro.md)
+      * [Partners XMPro](external-content/about/partners-xmpro.md)
+      * [Press Room XMPRO](external-content/bout/press-room-xmpro.md)
+    * [Blogs](external-content/blogs/README.md)
+      * [3 Patterns of Industrial IoT Use Cases XMPro.md](external-content/blogs/3-patterns-of-industrial-iot-use-cases--xmpro.md)
+      * [3 Ways The Internet Of Things Is Transforming Fiel](external-content/blogs/3-ways-the-internet-of-things-is-transforming-fiel.md)
+      * [6 Myths About Machine Learning  Xmpro](external-content/blogs/6-myths-about-machine-learning--xmpro.md)
+      * [7 Trends For Industrial Digital Twins In 2022  Xmp](external-content/blogs/7-trends-for-industrial-digital-twins-in-2022--xmp.md)
+      * [7 Types Of Industrial Iot Data Sources And How To](external-content/blogs/7-types-of-industrial-iot-data-sources-and-how-to.md)
+      * [Accelerate Your Ai Workflow The 3 Key Business Adv](external-content/blogs/accelerate-your-ai-workflow-the-3-key-business-adv.md)
+      * [Benefits Of Bpm V 10  Xmpro](external-content/blogs/benefits-of-bpm-v-10--xmpro.md)
+      * [Best Next Action Is The Next Big Thing For Intelli](external-content/blogs/best-next-action-is-the-next-big-thing-for-intelli.md)
+      * [Create A Common Operating Picture Of Your Operatio](external-content/blogs/create-a-common-operating-picture-of-your-operatio.md)
+      * [Digital Twin Applications For Realtime Operations](external-content/blogs/digital-twin-applications-for-realtime-operations.md)
+    * YouTube
+      * [Jan 2023](external-content/youtube/jan-2023.md)
+      * [Feb 2023](external-content/youtube/feb-2023.md)
+      * [March 2023](external-content/youtube/march-2023.md)
+      * [April 2023](external-content/youtube/april-2023.md)
 
 ## Concepts
 
