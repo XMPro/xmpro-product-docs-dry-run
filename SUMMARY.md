@@ -115,7 +115,7 @@
       * [Partners XMPro](resources/faqs/external-content/about/partners-xmpro.md)
       * [Press Room XMPRO](resources/faqs/external-content/about/press-room-xmpro.md)
     * [Blogs](resources/faqs/external-content/blogs/README.md)
-      * [3 Patterns of Industrial IoT Use Cases XMPro.md](resources/faqs/external-content/blogs/3-patterns-of-industrial-iot-use-cases-xmpro.md.md)
+      * [3 Patterns of Industrial IoT Use Cases XMPro](resources/faqs/external-content/blogs/3-patterns-of-industrial-iot-use-cases-xmpro.md.md)
       * [3 Ways The Internet Of Things Is Transforming Fiel](resources/faqs/external-content/blogs/3-ways-the-internet-of-things-is-transforming-fiel.md)
       * [6 Myths About Machine Learning Xmpro](resources/faqs/external-content/blogs/6-myths-about-machine-learning-xmpro.md)
       * [7 Trends For Industrial Digital Twins In 2022 Xmp](resources/faqs/external-content/blogs/7-trends-for-industrial-digital-twins-in-2022-xmp.md)
@@ -126,10 +126,10 @@
       * [Create A Common Operating Picture Of Your Operatio](resources/faqs/external-content/blogs/create-a-common-operating-picture-of-your-operatio.md)
       * [Digital Twin Applications For Realtime Operations](resources/faqs/external-content/blogs/digital-twin-applications-for-realtime-operations.md)
     * [YouTube](resources/faqs/external-content/youtube/README.md)
-      * [Jan 2023](docs/external-content/youtube/jan-2023.md)
-      * [Feb 2023](docs/external-content/youtube/feb-2023.md)
-      * [March 2023](docs/external-content/youtube/march-2023.md)
-      * [April 2023](docs/external-content/youtube/april-2023.md)
+      * [Jan 2023](resources/faqs/external-content/youtube/jan2023.md)
+      * [Feb 2023](resources/faqs/external-content/youtube/feb2023.md)
+      * [March 2023](resources/faqs/external-content/youtube/mar2023.md)
+      * [April 2023](resources/faqs/external-content/youtube/apr2023.md)
 
 ## Concepts
 
